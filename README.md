@@ -10,7 +10,7 @@
 
 
 ### :woman_technologist: About Me :
-I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+Aspiring data scientist with strong analytical skills and a passion for machine learning, seeking an entry-level position to apply and further develop skills in data analysis, statistical modeling, and predictive analytics. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - :telescope:I am currently learning Data Science
 
 - :seedling:  I’m interested in Deep Learning
