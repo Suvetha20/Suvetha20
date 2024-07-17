@@ -13,7 +13,7 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=https://github.com/Suvetha20&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=https://github.com/Suvetha20 style=flat-square&color=blue" alt=""/>
 
 <!--
 **Suvetha20/Suvetha20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
