@@ -13,9 +13,10 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT55RO-Ou5efTiuy0a7eQ_UMH8-pUrnMa0jlUJtk2N8UBP23QgzRDa9mrdJM2od37flXk4&usqp=CAU" width="600" height="300"/>
-</div>
+---
+
+### :woman_technologist: About Me :
+
 
 <!--
 **Suvetha20/Suvetha20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
