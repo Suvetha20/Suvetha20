@@ -13,7 +13,9 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/https://github.com/Suvetha20&style=flat-square&color=blue" alt=""/>
+<div align="center">
+  <img src="https://giphy.com/gifs/BferOKonYOspm28AiB" width="600" height="300"/>
+</div>
 
 <!--
 **Suvetha20/Suvetha20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
